@@ -1,10 +1,10 @@
 # Frontend Mentor - NFT preview card component solution
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,12 +15,13 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshots
 
-![](./screenshot.jpg)
+![](./screenshots/dekstop-preview.png)
+![](./screenshots/hover-effect.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-It7flkPPNj)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/nft-preview-card-component-main/)
 
 ## My process
 
@@ -33,4 +34,4 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@filipjanik00](https://www.frontendmentor.io/profile/filipjanik00)
